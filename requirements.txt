@@ -16,6 +16,6 @@ dash_html_components
 #Python.optimize_price
 #Python.optimize_quantity
 #dash_daq 
-matplotlib.pyplot
+#matplotlib.pyplot
 seaborn
 statsmodels.formula.api
