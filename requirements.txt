@@ -13,8 +13,8 @@ dash_core_components
 dash_html_components
 #dash_bootstrap_components
 #dash.dependencies
-Python.optimize_price
-Python.optimize_quantity
+#Python.optimize_price
+#Python.optimize_quantity
 dash_daq 
 matplotlib.pyplot
 seaborn
