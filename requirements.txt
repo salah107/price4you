@@ -6,8 +6,8 @@ dash
 pandas
 numpy
 dash_table
-logging
-plotly.graph_objs
+#logging
+#plotly.graph_objs
 plotly.express
 dash_core_components
 dash_html_components
